@@ -8,7 +8,7 @@ Skin cancer is the most prevalent type of cancer. Melanoma, specifically, is res
  
 Currently, dermatologists evaluate every one of a patient's moles to identify outlier lesions or “ugly ducklings” that are most likely to be melanoma. Existing AI approaches have not adequately considered this clinical frame of reference. Dermatologists could enhance their diagnostic accuracy if detection algorithms take into account “contextual” images within the same patient to determine which images represent a melanoma. If successful, classifiers would be more accurate and could better support dermatological clinic work.
 
-Rank: 1154/3319 Top AUC-ROC: 0.9411
+Rank: 1054/3319 Top AUC-ROC: 0.9411
 
 Teammates: Jack Zhang, Alice Liu, Kevin Tong.
 
